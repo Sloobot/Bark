@@ -12,9 +12,6 @@
   <a href="https://github.com/Sloobot/Bark/wiki">
       <img src="https://img.shields.io/badge/wiki%20-Bark-lightgrey.svg">
  </a>
-  <a href="https://twitter.com/Sloobot">
-    <img src="https://img.shields.io/badge/twitter-entynetproject-blue.svg">
- </a>
 </p>
 
 ***
@@ -41,7 +38,7 @@ tool, HTTP attack tool and many other exciting attack tools.
 
 ***
 
-# Quack Toolkit execution
+# Bark Toolkit execution
 
 > Bark -h
 
