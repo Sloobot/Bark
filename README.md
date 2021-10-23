@@ -31,6 +31,8 @@ tool, HTTP attack tool and many other exciting attack tools.
 
 > pip3 install -r requirements.txt
 
+> chmod +x Bark
+
 > python3 Bark.py
 
 ***
