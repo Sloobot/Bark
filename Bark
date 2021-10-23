@@ -48,8 +48,8 @@ def main():
 					help = 'Timeout in secounds.')
 	parser.add_argument("--threads", type = int, default = 3, metavar = "<threads>",
 					help = "Threads count.")
-	parser.add_argument("-u", "--update", action='store_true', dest="update", help = "Update Quack Toolkit.")
-	parser.add_argument("--version", action='store_true', dest="version", help = "Show Quack Toolkt version.")
+	parser.add_argument("-u", "--update", action='store_true', dest="update", help = "Update Bark Toolkit.")
+	parser.add_argument("--version", action='store_true', dest="version", help = "Show Bark Toolkt version.")
 
 	# Get args
 	args = parser.parse_args()
