@@ -17,7 +17,7 @@
 
 ```
 Bark Toolkit is a set of tools that provides denial 
-of service attacks. Back Toolkit includes SMS attack 
+of service attacks. Bark Toolkit includes SMS attack 
 tool, HTTP attack tool and many other exciting attack tools.
 ```
 
