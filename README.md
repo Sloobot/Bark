@@ -3,9 +3,6 @@
 ![Bark](https://raw.githubusercontent.com/Sloobot/Bark/main/.github/logo1.png)
 
 <p align="center">
-  <a href="https://github.com/Sloobot/Bark/releases">
-    <img src="https://img.shields.io/github/release/entynetproject/Bark.svg">
-  </a>
   <a href="https://wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://img.shields.io/badge/language-python-blue.svg">
  </a>
