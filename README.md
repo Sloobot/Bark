@@ -52,8 +52,8 @@ optional arguments:
                         Attack tool.
   --timeout <timeout>   Timeout in secounds.
   --threads <threads>   Threads count.
-  -u, --update          Update Quack Toolkit.
-  --version             Show Quack Toolkit version.
+  -u, --update          Update Bark Toolkit.
+  --version             Show Bark Toolkit version.
 ```
 
 ***
