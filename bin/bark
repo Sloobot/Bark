@@ -85,7 +85,7 @@ fi
 if [[ -d ~/Bark ]]
 then
 cd ~/Bark
-chmod +x Bark
+chmod +x bark
 ./Bark $1 $2 $3 $4 $5 $6 $7 $8 $9
 else
 {
@@ -99,7 +99,7 @@ git clone https://github.com/Sloobot/Bark.git
 cd $OLDPWD
 cd ~/Bark
 } &> /dev/null
-chmod +x Bark
+chmod +x bark
 ./Bark $1 $2 $3 $4 $5 $6 $7 $8 $9
 else
 cd ~
